@@ -97,9 +97,9 @@
                     "priority": 0
                 },
                 {
-                    "name": "up",
+                    "name": "LeftClick",
                     "type": "Button",
-                    "id": "8d62909f-6fdb-4746-b0e4-86ddec85053b",
+                    "id": "d41823d1-da88-467a-aeee-a8c0171a1b17",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -107,9 +107,9 @@
                     "priority": 0
                 },
                 {
-                    "name": "down",
+                    "name": "New action",
                     "type": "Button",
-                    "id": "f118a0e3-da69-4b64-9160-b03ec7de1ad5",
+                    "id": "f934c29d-1794-4a9c-b665-64e9f64ff00c",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -505,45 +505,23 @@
                 },
                 {
                     "name": "",
-                    "id": "68c3e306-b626-4108-a42f-9465f755fa59",
-                    "path": "<Keyboard>/w",
+                    "id": "b053f694-36f3-4913-8bec-9b9db953e120",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "up",
+                    "action": "LeftClick",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "d0b048e9-2c45-440d-a5a6-d91a68fdcda0",
-                    "path": "<Keyboard>/upArrow",
+                    "id": "d620823e-41eb-48af-960a-f6cf56f7fb75",
+                    "path": "",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "up",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "c58062f3-b402-4f0f-bc02-f12cdb89fedb",
-                    "path": "<Keyboard>/s",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "down",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "1a38a61f-7972-4ed7-8e05-014eb3e34e14",
-                    "path": "<Keyboard>/downArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "down",
+                    "action": "New action",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
